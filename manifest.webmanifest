@@ -1,0 +1,11 @@
+{
+  "name": "考研英语二｜前十天词汇",
+  "short_name": "英语词汇",
+  "lang": "zh-CN",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f6f4ee",
+  "theme_color": "#2f5d46",
+  "description": "DAY 1–10 英语词汇学习、阅读练习和复习"
+}
